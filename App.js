@@ -36,9 +36,6 @@ export default function App() {
     </View>
   );
 }
-
-
-
 const styles = StyleSheet.create({
   appContainer:{
     paddingTop:50,
